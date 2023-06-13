@@ -1,0 +1,10 @@
+* SmackJack
+
+An Ajax Common Lisp Library using parenscript to generate javascript and hunchentoot (for now) as the web server. Basically a fork and refactoring of ht-simple-ajax with an attempt merge ideas and code from ht-ajax.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/aarvid/SmackJack   |
+| commit  | 019051e  |
+| systems | SmackJack |
+|---------+-------------------------------------------|
+
